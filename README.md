@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codshahadat
 - 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning cloud computing and machine learning
-- 💞️ I’m looking to collaborate on startup company
+- 🌱 I’m currently learning machine learning & deep learning
+- 💞️ I’m looking to collaborate on a startup company
 - 📫 How to reach me ...
 
 <!---
